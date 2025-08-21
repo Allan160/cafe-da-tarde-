@@ -1,0 +1,11 @@
+/* Estilo CSS */
+.card {
+  background-color: white;        /* Fundo branco */
+  border-radius: 10px;            /* Borda arredondada */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra suave */
+  padding: 20px;                  /* Espaçamento interno */
+  max-width: 300px;               /* Largura máxima */
+  font-family: Arial, sans-serif; /* Fonte legível */
+  margin: 20px auto;              /* Centralizar com margem */
+  text-align: center;            /* Centraliza o texto */
+}
